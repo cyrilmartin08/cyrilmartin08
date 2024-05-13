@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cyrilmartin08
+- 👋 Hi, I’m CYRIL MARTIN
 - 👀 I’m interested in MUSIC, CODING, ACTING
 - 🌱 I’m currently learning 'still figuring out'
 - 💞️ I’m looking to collaborate on 'AI, Data Science, ML '
