@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on 'AI, Data Science, ML '
 - 📫 How to reach me 'CYRIL MARTIN' on LinkedIn
 - 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: 2nd Year ISE Student
+- ⚡ Fun fact: 3rd Year ISE Student
 
 <!---
 cyrilmartin08/cyrilmartin08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
