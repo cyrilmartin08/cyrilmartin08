@@ -5,6 +5,8 @@
 - 📫 How to reach me 'CYRIL MARTIN' on LinkedIn
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: 3rd Year ISE Student
+- 📧 E-mail: cyrilmartin0812@gmail.com
+-  Youtube: Cyril's Melody
 
 <!---
 cyrilmartin08/cyrilmartin08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
