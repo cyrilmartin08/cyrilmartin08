@@ -1,6 +1,6 @@
 - 👋 Hi, I’m CYRIL MARTIN
-- 👀 I’m interested in MUSIC, CODING, ACTING, Film-MAKING
-- 🌱 I’m currently learning 'still figuring out'
+- 👀 I’m interested in MUSIC, CODING, ACTING, Film-Making
+- 🌱 I’m currently learning 'Mobile App and Web Development'
 - 💞️ I’m looking to collaborate on 'AI, Data Science, ML '
 - 📫 How to reach me 'CYRIL MARTIN' on LinkedIn
 - 😄 Pronouns: HE/HIM
