@@ -7,7 +7,7 @@
 - ⚡ Fun fact: 4th Year ISE Student --->
 - 📧 E-mail: cyrilmartin.tech@gmail.com
 -  Youtube: Cyril's Melody (https://www.youtube.com/@CyrilsMelody)
--  LimkedIn: https://www.linkedin.com/in/cyril-martin-32a990265/
+-  LinkedIn: https://www.linkedin.com/in/cyril-martin-32a990265/
 
 <!---
 cyrilmartin08/cyrilmartin08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
