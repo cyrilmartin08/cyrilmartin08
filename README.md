@@ -1,11 +1,11 @@
 - 👋 Hi, I’m CYRIL MARTIN
-- 👀 I’m interested in MUSIC, CODING, ACTING, Film-Making
-- 🌱 I’m currently learning 'Mobile App and Web Development'
+<!--- - 👀 I’m interested in MUSIC, CODING, ACTING, Film-Making
+ - 🌱 I’m currently learning 'Mobile App and Web Development'
 - 💞️ I’m looking to collaborate on 'AI, Data Science, ML '
 - 📫 How to reach me 'CYRIL MARTIN' on LinkedIn
 - 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: 3rd Year ISE Student
-- 📧 E-mail: cyrilmartin0812@gmail.com
+- ⚡ Fun fact: 4th Year ISE Student --->
+- 📧 E-mail: cyrilmartin.tech@gmail.com
 -  Youtube: Cyril's Melody (https://www.youtube.com/@CyrilsMelody)
 -  LimkedIn: https://www.linkedin.com/in/cyril-martin-32a990265/
 
@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-
+<!-- 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
